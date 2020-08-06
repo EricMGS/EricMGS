@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Repositórios em manutenção  
+Perfil em reestruturação    
 <!--
 **EricMGS/EricMGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
